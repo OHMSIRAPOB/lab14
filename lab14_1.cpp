@@ -89,3 +89,4 @@ void stat(const double A[],int N,double B[]){
     B[5] = Min(A,N);
 }
 
+
